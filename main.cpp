@@ -35,7 +35,7 @@ int main() {
     for (int i = 0; i < n; i++) {
         if (disk1[i] != disk2[i]) {
             for (int k = 0; k < 9; k++) {
-                if (disk1[i] == disk2[i] - 10 + k || disk1[i] == disk2[i] + k || disk1[i] == disk2[i] - k ) {
+                if (disk1[i] == disk2[i] + k || disk1[i] == disk2[i] - k || disk1[i] == disk2[i] + 10 - k) {
                     sum += k;
                     break;
                 }
