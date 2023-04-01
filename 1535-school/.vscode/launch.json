@@ -16,8 +16,8 @@
       "args": [],
       "stopAtEntry": false,
       "externalConsole": true,
-      "cwd": "c:/Users/comp007/Desktop/1535-school/1535 real work",
-      "program": "c:/Users/comp007/Desktop/1535-school/1535 real work/build/Debug/outDebug",
+      "cwd": "c:/Users/comp007/Desktop/1535-school",
+      "program": "c:/Users/comp007/Desktop/1535-school/build/Debug/outDebug",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [
