@@ -14,7 +14,7 @@ int main() {
 
     for (int i = 0; i < n; i++)
         cin >> p[i];
-
+    
     for (int i = 0; i < n; i++)
         cin >> t[i];
 
