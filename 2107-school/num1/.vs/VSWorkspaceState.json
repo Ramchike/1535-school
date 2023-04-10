@@ -10,5 +10,10 @@
       "out\\build\\x86-release",
       "out\\install\\x86-release"
     ]
-  }
+  },
+  "ExpandedNodes": [
+    ""
+  ],
+  "SelectedNode": "\\num1.cpp",
+  "PreviewInSolutionExplorer": false
 }
