@@ -1,3 +1,0 @@
-C:/Users/comp007/Desktop/1535-school/olymp/gazprom/Num2/out/build/x64-debug/CMakeFiles/Num2.dir
-C:/Users/comp007/Desktop/1535-school/olymp/gazprom/Num2/out/build/x64-debug/CMakeFiles/edit_cache.dir
-C:/Users/comp007/Desktop/1535-school/olymp/gazprom/Num2/out/build/x64-debug/CMakeFiles/rebuild_cache.dir
