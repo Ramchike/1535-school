@@ -1,0 +1,3 @@
+C:/Users/comp007/Desktop/1535-school/simple-codes/pod_string/out/build/x64-debug/CMakeFiles/pod_string.dir
+C:/Users/comp007/Desktop/1535-school/simple-codes/pod_string/out/build/x64-debug/CMakeFiles/edit_cache.dir
+C:/Users/comp007/Desktop/1535-school/simple-codes/pod_string/out/build/x64-debug/CMakeFiles/rebuild_cache.dir
